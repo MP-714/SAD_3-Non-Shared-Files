@@ -1,0 +1,15 @@
+{
+  "name": "3.2_demo",
+  "version": "0.1.0",
+  "description": "3.2 dotenv demo",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
